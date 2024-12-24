@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ptbr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tarefas</title>
+    <style>
+        /* Centraliza o conteúdo nas células da tabela */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center; /* Centraliza horizontalmente */
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            vertical-align: middle; /* Centraliza verticalmente */
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        /* Centraliza o título */
+        h2 {
+            text-align: center;
+        }
+
+        /* Estilo para os links de adicionar tarefa */
+        p {
+            text-align: center;
+        }
+
+        /* Estilo para o filtro */
+        .filtro {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .filtro label {
+            margin-right: 10px;
+            font-weight: bold;
+        }
+
+        .filtro input, .filtro select {
+            padding: 8px;
+            margin: 0 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .filtro button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        .filtro button:hover {
+            background-color: #45a049;
+        }
+
+        /* Estilo para a tabela de tarefas */
+        .tabela-exemplo td {
+            color: #888;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+<div th:switch="${tarefas}">
+    <h2 th:case="null">Ainda não há tarefas!</h2>
+    <div th:case="*">
+        <h2>Tarefas</h2>
+
+        <!-- Filtro -->
+        <div class="filtro">
+            <label for="prazo">Prazo:</label>
+            <input type="date" id="prazo" name="prazo" />
+
+            <label for="status">Status:</label>
+            <select id="status" name="status">
+                <option value="finalizado">Finalizado</option>
+                <option value="nao_finalizado">Não Finalizado</option>
+            </select>
+
+            <label for="palavra-chave">Palavra-chave:</label>
+            <input type="text" id="palavra-chave" name="palavra-chave" placeholder="Palavra - chave" />
+
+            <br />
+            <button onclick="filtrar()">Filtrar</button>
+        </div>
+
+        <!-- Tabela de Tarefas -->
+        <table>
+            <thead>
+            <tr>
+                <th>Título</th>
+                <th>Descrição</th>
+                <th>Prazo de Conclusão</th>
+                <th>Finalizada</th>
+                <th>Remover</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!-- Exemplo de tarefa (não editável) -->
+            <tr class="tabela-exemplo">
+                <td>Entregar o Projeto do Gilbas</td>
+                <td>Gerenciador de Tarefas <br>Valor: [4.0].</td>
+                <td>25-12-2024</td>
+                <td><input type="checkbox" checked disabled /></td>
+                <td><a href="#">Remover</a></td>
+            </tr>
+            <tr th:each="tarefa : ${tarefas}">
+                <td th:text="${tarefa.titulo}"></td>
+                <td th:text="${tarefa.descricao}"></td>
+                <td th:text="${#dates.format(tarefa.prazo, 'dd/MM/yyyy')}"></td>
+                <td>
+                    <form th:action="@{/atualizar/{id}(id=${tarefa.id})}" method="post">
+                        <!-- Campo oculto para garantir que 'false' seja enviado quando o checkbox não for marcado -->
+                        <input type="hidden" name="finalizado" value="false" />
+                        <input type="checkbox" th:checked="${tarefa.finalizado}" name="finalizado" value="true" onchange="this.form.submit()" />
+                    </form>
+                </td>
+                <td><a th:href="@{/remover/{id}(id=${tarefa.id})}">Remover</a></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <p><a href="/nova-tarefa">Adicionar uma nova tarefa</a></p>
+</div>
+
+<script>
+    function filtrar() {
+        // Função de filtragem (você pode adaptar essa lógica para funcionar com o backend)
+        let prazo = document.getElementById("prazo").value;
+        let status = document.getElementById("status").value;
+        let palavraChave = document.getElementById("palavra-chave").value;
+
+        console.log("Filtro aplicado:");
+        console.log("Prazo:", prazo);
+        console.log("Status:", status);
+        console.log("Palavra-chave:", palavraChave);
+
+        // Aqui você pode adicionar a lógica para aplicar os filtros no backend ou atualizar a página
+    }
+</script>
+
+</body>
+</html>

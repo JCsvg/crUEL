@@ -1,0 +1,113 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Adicionar Tarefa</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Adicione seu CSS aqui -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+      margin-top: 50px;
+    }
+
+    form {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      width: 50%;
+      margin: 30px auto;
+    }
+
+    label {
+      font-weight: bold;
+      margin-bottom: 5px;
+      display: block;
+      color: #555;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="date"],
+    input[type="submit"] {
+      width: 100%;
+      padding: 12px;
+      margin: 10px 0;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .error {
+      color: red;
+      font-size: 12px;
+      margin-top: 5px;
+    }
+
+    .form-group span {
+      display: block;
+      color: red;
+    }
+  </style>
+</head>
+<body>
+<h1>Adicionar Nova Tarefa</h1>
+<form id="tarefaForm" action="#" th:action="@{/adicionar-tarefa}" th:object="${tarefa}" method="post" onsubmit="return validarFormulario()">
+  <div class="form-group">
+    <label for="titulo">Título:*</label>
+    <input type="text" th:field="*{titulo}" id="titulo" placeholder="Digite o título da tarefa">
+    <span th:if="${#fields.hasErrors('titulo')}" th:errors="*{titulo}" class="error"></span>
+  </div>
+
+  <div class="form-group">
+    <label for="descricao">Descrição:</label>
+    <input type="text" th:field="*{descricao}" id="descricao" placeholder="Digite a descrição da tarefa">
+  </div>
+
+  <div class="form-group">
+    <label for="prazo">Prazo de Conclusão:</label>
+    <input type="date" th:field="*{prazo}" id="prazo">
+    <span th:if="${#fields.hasErrors('prazo')}" th:errors="*{prazo}" class="error"></span>
+  </div>
+
+  <div class="form-group">
+    <input type="submit" value="Adicionar Tarefa">
+  </div>
+</form>
+
+<script>
+  function validarFormulario() {
+    var titulo = document.getElementById("titulo").value;
+    var prazo = document.getElementById("prazo").value;
+
+    if (titulo === "" || prazo === "") {
+      alert("Por favor, preencha todos os campos obrigatórios (Título e Prazo).");
+      return false; // Impede o envio do formulário
+    }
+    return true; // Permite o envio do formulário
+  }
+</script>
+</body>
+</html>
