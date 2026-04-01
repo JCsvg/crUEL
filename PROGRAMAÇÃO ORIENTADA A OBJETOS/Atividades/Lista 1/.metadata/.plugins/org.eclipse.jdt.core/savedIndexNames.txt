@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+/home/geneto/Documentos/Uel/POO/ListaEx1Geraldo/Lista1/.metadata/.plugins/org.eclipse.jdt.core
+4151492023.index
+2155187489.index
+2266515768.index
+4028594606.index
+2400126682.index
+427613339.index
+504436866.index
+396842153.index
+1763059732.index
+1865797976.index
+1621124159.index

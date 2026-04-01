@@ -1,0 +1,6 @@
+Implemente o TAD de uma Árvore Binária de Busca, e teste sua implementação.
+- Criar
+- Buscar
+- Inserir
+- Imprimir (pré-ordem, simétrica, pós-ordem)
+- Excluir (nó folha, nó com um filho, nó com mais de um filho)

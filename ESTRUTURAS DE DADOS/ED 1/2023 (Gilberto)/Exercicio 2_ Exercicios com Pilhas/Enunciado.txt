@@ -1,0 +1,4 @@
+Entregar os exercícios 3 e 4 presente nos slides "EDI_03 - Pilhas e Filas".
+
+Exe 3: inverter a ordem das letras
+Exe 4: verificar se uma equação está bem formada quanto aos parênteses, colchetes e chaves.

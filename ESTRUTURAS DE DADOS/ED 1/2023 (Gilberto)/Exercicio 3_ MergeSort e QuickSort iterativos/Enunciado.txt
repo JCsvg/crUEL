@@ -1,0 +1,1 @@
+Implemente as versões iterativas do MergeSort e do QuickSort. Para a versão iterativa do QuickSort, use pilhas!!!
