@@ -138,7 +138,7 @@ O **IEEE** é a maior organização profissional de tecnologia do mundo. No ramo
 - **RAS (Robotics and Automation):** Robótica pura.
 - **SSIT (Social Implications of Technology):** Tecnologia voltada para o bem social.
 
-- - **Como entrar:** Falar com o Marco ou Nicolas.
+- **Como entrar:** Falar com o Marco ou Nicolas.
 
 - 🔗 **Instagram:** [@ieeeuel](https://www.instagram.com/ieeeuel/) | **YouTube:** [Ramo IEEE UEL](https://www.youtube.com/RamoIEEEUEL)
 
