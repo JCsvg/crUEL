@@ -4,14 +4,14 @@ Parabéns por terem chegado à **crUELzinha**! Este guia foi feito por veteranos
 
 ## 📍 Sumário
 
-[📚 Matérias do 1º Semestre](#materias_1sem)
+📚 [Matérias do 1º Semestre](#materias_1sem)
 - [Cálculo Diferencial e Integral I](#calculo1)
 - [Algoritmos](#algoritmos)
 - [Álgebra Linear](#algebra_linear)
 - [Sistemas Digitais I](#sistemas_digitais)
 - [Matemática Discreta e Finita I](#discreta1)
 
-[🚀 Atividades Extracurriculares](#extracurriculares)
+🚀 [Atividades Extracurriculares](#extracurriculares)
 - [Atlética Exatas e Lolloteria](#atletica)
 - [CACOMP (Centro Acadêmico)](#cacomp)
 - [CyberLab (Segurança Digital)](#cyberlab)
@@ -21,7 +21,7 @@ Parabéns por terem chegado à **crUELzinha**! Este guia foi feito por veteranos
 - [PET CODE](#petcode)
 - [WIE (Women in Engineering)](#wie)
 
-[📱 Portal e Sistemas](#app_uel)
+📱 [Portal e Sistemas](#app_uel)
 - [App UEL Mobile](#app_uel)
 - [Matrícula e Renovação](#matricula)
 - [Boletim e Frequência](#boletim)
@@ -222,4 +222,4 @@ Por enquanto é isso que vocês precisam para sobreviver ao primeiro semestre de
 
 #### Créditos
 
-> [Gabryel Leite]() | [Isadora Vanco]() | [João Carlos]()
+> [Gabryel Leite](https://github.com/gabryeleite) | [Isadora Vanco](https://github.com/IsadoraVanco) | [João Carlos](https://github.com/JCsvg)
