@@ -91,25 +91,25 @@ Trabalha com lógica e conjuntos. É o que treina seu raciocínio para programar
 # 🚀 <a name="extracurriculares"></a>Além da Sala de Aula: Atividades Extracurriculares
 A faculdade não é só DP e café! Existem grupos que ensinam o que o quadro negro não consegue, além de garantirem as **horas complementares** necessárias para se formar.
 
-> **Atenção:** A Atlética e o CACOMP são fundamentais para a sua saúde mental e integração, mas eles **não dão horas complementares**. Participe pelo social!
+> ⚠️ A Atlética e o CACOMP são fundamentais para a sua saúde mental e integração, mas eles **não dão horas complementares**.
 
 ---
 
 ### 🐘 <a name="atletica"></a>Atlética Exatas e Lolloteria
-Nem só de código vive o homem! A **Atlética Exatas** cuida do nosso lazer, esportes e, claro, das festas. Se você toca algum instrumento ou quer aprender do zero, a **Lolloteria** (nossa bateria) está sempre de portas abertas.
+Nem só de código vive o homem! A **Atlética Exatas** cuida do nosso lazer, esportes e, claro, das festas. E se você toca algum instrumento ou quer aprender do zero, a **Lolloteria** (nossa bateria) está sempre de portas abertas.
 
 - **Instagram Exatas:** [@exatasuel](https://www.instagram.com/exatasuel/)    
 - **Instagram Lolloteria:** [@lolloteria](https://www.instagram.com/lolloteria/)
 ---
 
 ### 🏠 <a name="cacomp"></a>CACOMP - Centro Acadêmico
-O **CACOMP** é a entidade que representa os alunos. Além de lutar pelos nossos direitos, eles são responsáveis pelos **produtos do curso** (moletons, canecas, camisetas). Fiquem de olho no Instagram para não perder os produtos! E claro, não podemos esquecer do lendário **Churrascomp**, o melhor evento de integração que você vai ver.
+O **CACOMP** é a entidade que representa os alunos. Além de lutar pelos nossos direitos, eles são responsáveis pelos **produtos do curso** (moletons, canecas, camisetas). Fiquem de olho no Instagram para não perder os produtos! E claro, não podemos esquecer do lendário **Churrascomp**.
 
 O CA tem um **espaço físico** incrível (o "aquário") onde você pode:
 
 - Jogar **Guitar Hero** e outros jogos no intervalo.
 - Estudar (ou tentar) com a galera.
-- ~~Usar a **geladeira e o micro-ondas** (salva vidas!).~~
+- ~~Usar a **geladeira e o micro-ondas**.~~
 - Simplesmente capotar no sofá e dormir entre uma aula e outra.
 
 >  **Mapa do caminho saindo do CCE até o CACOMP. É um pulo, não tem erro!**
@@ -119,7 +119,7 @@ O CA tem um **espaço físico** incrível (o "aquário") onde você pode:
 ---
 
 ### 🛡️ <a name="cyberlab"></a>CyberLab
-Se você pira em segurança digital, esse é o seu lugar. O **CyberLab** (Laboratório de Pesquisas e Estudos de Crimes Cibernéticos) foca em entender os riscos da internet, desenvolver apps e materiais educativos para conscientizar a galera sobre privacidade e proteção de dados. É pesquisa de ponta com impacto real na sociedade!
+Se você curte segurança digital, esse é o seu lugar. O **CyberLab** (Laboratório de Pesquisas e Estudos de Crimes Cibernéticos) foca em entender os riscos da internet, desenvolver apps e materiais educativos para conscientizar a galera sobre privacidade e proteção de dados.
 
 - **Como entrar:** Falar com o Possari ou professor Rodolfo.
 ---
@@ -145,7 +145,7 @@ O **IEEE** é a maior organização profissional de tecnologia do mundo. No ramo
 ---
 
 ### 🧬 <a name="ic"></a>Iniciação Científica (IC)
-Quer pesquisar algo a fundo e ainda ganhar uma bolsa (o famoso 🤑)? Na IC você escolhe um tema e um orientador. É ótimo para quem pensa em fazer mestrado ou quer se especializar muito em uma área.
+Quer pesquisar algo a fundo e ainda ganhar uma bolsa? Na IC você escolhe um tema e um orientador. É ótimo para quem pensa em fazer mestrado ou quer se especializar em uma área.
 
 - **Como entrar?** Mande e-mail ou bata na porta dos professores. Veja quem pesquisa o quê aqui: [Currículo dos Docentes](https://sites.uel.br/dc/docentes-e-tecnicos/)
 ---
