@@ -182,7 +182,7 @@ O aplicativo oficial é, na maioria das vezes, muito mais prático que o portal 
 
 Aqui é onde a "burocracia oficial" acontece. Se precisar de papelada ou resolver a vida acadêmica, o caminho é o **Portal do Estudante de Graduação**.
 
-> **Link de acesso:** [sistemas.uel.br/portaldoestudante](https://sistemas.uel.br/portaldoestudante/)
+> **Link de acesso:** [Portal do Estudante](https://sistemas.uel.br/portaldoestudante/)
 
 ### Confirmação e Renovação
 Não vacile aqui! Todo semestre (e logo agora no começo) você precisa confirmar que está "ativo" no curso:
@@ -202,7 +202,7 @@ Quer saber se o professor já postou a nota ou se você está abusando das falta
 
 - **Dica de veterano:** A UEL é rígida com presença. Você precisa de, no mínimo, **75% de frequência**. O boletim mostra o "limite de faltas" de cada matéria, não ultrapasse esse número por nada! Você também consegue ver tudo isso pelo App, o que é bem mais prático.
 
-- Geralmente o numero de máximo faltas é: 9, 18 ou 27. **Mas lembrando que 1 aula conta como 2**.
+- Geralmente o numero de máximo faltas é: 9, 18 ou 27. **Mas lembrando que 1 aula conta como 2 faltas**.
 ---
 
 # 💳 <a name="carteirinha"></a>Carteirinha e RU
