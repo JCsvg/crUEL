@@ -37,7 +37,7 @@ Calma, ninguém morre no primeiro semestre (pelo menos não literalmente)! Aqui 
 **Onde buscar socorro:**
 - **Equaciona:** Ótimo para base matemática.
 - **Matemateca:** Explicações diretas e sem enrolação.
-- **Blackpenredpen (EUA):** Se o seu inglês estiver em dia, esse cara é um gênio das integrais.
+- **Blackpenredpen (Ingês):** Se o seu inglês estiver em dia, esse cara é um gênio das integrais.
 - 📺 **Playlist Salva-Vidas:** [Cálculo 1 - Curso Completo](https://www.youtube.com/watch?v=jQI0bsCtdws&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC)
 
 **Material de Apoio:**
