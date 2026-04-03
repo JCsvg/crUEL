@@ -138,6 +138,8 @@ O **IEEE** é a maior organização profissional de tecnologia do mundo. No ramo
 - **RAS (Robotics and Automation):** Robótica pura.
 - **SSIT (Social Implications of Technology):** Tecnologia voltada para o bem social.
 
+- - **Como entrar:** Falar com o Marco ou Nicolas.
+
 - 🔗 **Instagram:** [@ieeeuel](https://www.instagram.com/ieeeuel/) | **YouTube:** [Ramo IEEE UEL](https://www.youtube.com/RamoIEEEUEL)
 
 ---
@@ -150,6 +152,8 @@ Quer pesquisar algo a fundo e ainda ganhar uma bolsa (o famoso 🤑)? Na IC voc�
 
 ### 💻 <a name="petcode"></a>PET CODE - Computação e Design
 O **PET** une a galera da Comp e do Design em projetos de ensino, pesquisa e extensão. É um grupo muito forte que desenvolve soluções reais, organiza eventos e tem uma vivência acadêmica bem intensa.
+
+- **Como entrar:** Fique de olho nos Editais da UEL no site da [Prograd](https://sites.uel.br/prograd/).
 
 - **Instagram:** [@pet_code](https://www.instagram.com/petcode_uel?igsh=OG93MWx0YTVldnBi)
 - **E-mail:** [petcode@uel.br]
