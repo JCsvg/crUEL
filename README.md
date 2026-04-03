@@ -2,7 +2,3 @@
 
 Caso você seja um calouro, acoselhamos olhar o [Manual do Calouro](/Manual_Do_Calouro.md)
 
-Aluisio: AluisioBarbosa
-Pietro: pietro-pelizon
-Lucas: lucascvalcante
-Waldemar: WaldemarSe
