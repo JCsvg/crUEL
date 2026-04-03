@@ -115,7 +115,7 @@ O CA tem um **espaço físico** incrível (o "aquário") onde você pode:
 >  **Mapa do caminho saindo do CCE até o CACOMP. É um pulo, não tem erro!**
 >  
 > <img src="img/manual_do_calouro/mapa_cacomp.jpeg" alt="Mapa CCE para CACOMP" width="500"/>
-  ** [@cacompuel](https://www.instagram.com/cacompuel/)   
+  **[@cacompuel](https://www.instagram.com/cacompuel/)**
 ---
 
 ### 🛡️ <a name="cyberlab"></a>CyberLab
