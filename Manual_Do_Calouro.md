@@ -37,7 +37,7 @@ Calma, ninguém morre no primeiro semestre (pelo menos não literalmente)! Aqui 
 **Onde buscar socorro:**
 - **Equaciona:** Ótimo para base matemática.
 - **Matemateca:** Explicações diretas e sem enrolação.
-- **Blackpenredpen (EUA):** Se o seu inglês estiver em dia, esse cara é um gênio das integrais.
+- **Blackpenredpen (Ingês):** Se o seu inglês estiver em dia, esse cara é um gênio das integrais.
 - 📺 **Playlist Salva-Vidas:** [Cálculo 1 - Curso Completo](https://www.youtube.com/watch?v=jQI0bsCtdws&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC)
 
 **Material de Apoio:**
@@ -91,43 +91,43 @@ Trabalha com lógica e conjuntos. É o que treina seu raciocínio para programar
 # 🚀 <a name="extracurriculares"></a>Além da Sala de Aula: Atividades Extracurriculares
 A faculdade não é só DP e café! Existem grupos que ensinam o que o quadro negro não consegue, além de garantirem as **horas complementares** necessárias para se formar.
 
-> **Atenção:** A Atlética e o CACOMP são fundamentais para a sua saúde mental e integração, mas eles **não dão horas complementares**. Participe pelo social!
+> ⚠️ A Atlética e o CACOMP são fundamentais para a sua saúde mental e integração, mas eles **não dão horas complementares**.
 
 ---
 
 ### 🐘 <a name="atletica"></a>Atlética Exatas e Lolloteria
-Nem só de código vive o homem! A **Atlética Exatas** cuida do nosso lazer, esportes e, claro, das festas. Se você toca algum instrumento ou quer aprender do zero, a **Lolloteria** (nossa bateria) está sempre de portas abertas.
+Nem só de código vive o homem! A **Atlética Exatas** cuida do nosso lazer, esportes e, claro, das festas. E se você toca algum instrumento ou quer aprender do zero, a **Lolloteria** (nossa bateria) está sempre de portas abertas.
 
 - **Instagram Exatas:** [@exatasuel](https://www.instagram.com/exatasuel/)    
 - **Instagram Lolloteria:** [@lolloteria](https://www.instagram.com/lolloteria/)
 ---
 
 ### 🏠 <a name="cacomp"></a>CACOMP - Centro Acadêmico
-O **CACOMP** é a entidade que representa os alunos. Além de lutar pelos nossos direitos, eles são responsáveis pelos **produtos do curso** (moletons, canecas, camisetas). Fiquem de olho no Instagram para não perder os produtos! E claro, não podemos esquecer do lendário **Churrascomp**, o melhor evento de integração que você vai ver.
+O **CACOMP** é a entidade que representa os alunos. Além de lutar pelos nossos direitos, eles são responsáveis pelos **produtos do curso** (moletons, canecas, camisetas). Fiquem de olho no Instagram para não perder os produtos! E claro, não podemos esquecer do lendário **Churrascomp**.
 
 O CA tem um **espaço físico** incrível (o "aquário") onde você pode:
 
 - Jogar **Guitar Hero** e outros jogos no intervalo.
 - Estudar (ou tentar) com a galera.
-- ~~Usar a **geladeira e o micro-ondas** (salva vidas!).~~
+- ~~Usar a **geladeira e o micro-ondas**.~~
 - Simplesmente capotar no sofá e dormir entre uma aula e outra.
 
 >  **Mapa do caminho saindo do CCE até o CACOMP. É um pulo, não tem erro!**
 >  
 > <img src="img/manual_do_calouro/mapa_cacomp.jpeg" alt="Mapa CCE para CACOMP" width="500"/>
-  **[@cacompuel](https://www.instagram.com/cacompuel/)   
+  **[@cacompuel](https://www.instagram.com/cacompuel/)**
 ---
 
 ### 🛡️ <a name="cyberlab"></a>CyberLab
-Se você pira em segurança digital, esse é o seu lugar. O **CyberLab** (Laboratório de Pesquisas e Estudos de Crimes Cibernéticos) foca em entender os riscos da internet, desenvolver apps e materiais educativos para conscientizar a galera sobre privacidade e proteção de dados. É pesquisa de ponta com impacto real na sociedade!
+Se você curte segurança digital, esse é o seu lugar. O **CyberLab** (Laboratório de Pesquisas e Estudos de Crimes Cibernéticos) foca em entender os riscos da internet, desenvolver apps e materiais educativos para conscientizar a galera sobre privacidade e proteção de dados.
 
-- **Como entrar:** Falar com os professores Possari ou Rodolfo.
+- **Como entrar:** Falar com o Possari ou professor Rodolfo.
 ---
 
 ### 🏆 <a name="gemp"></a>GEMP - Grupo de Estudos para Maratonas de Programação
 A Maratona de Programação é o "esporte de elite" da computação. O **GEMP** serve para te treinar (mesmo se você nunca viu código na vida) para resolver problemas complexos de algoritmos sob pressão. O objetivo é colocar a UEL no topo do Brasil e te preparar para entrevistas em big techs (Google, Meta, etc).
 
-- **Como entrar:** Falar com o professor Marco.
+- **Como entrar:** Falar com o Marco ou André.
 ---
 
 ### 🤖 <a name="ieee"></a>IEEE UEL - Ramo Estudantil
@@ -138,12 +138,14 @@ O **IEEE** é a maior organização profissional de tecnologia do mundo. No ramo
 - **RAS (Robotics and Automation):** Robótica pura.
 - **SSIT (Social Implications of Technology):** Tecnologia voltada para o bem social.
 
+- **Como entrar:** Falar com o Marco ou Nicolas.
+
 - 🔗 **Instagram:** [@ieeeuel](https://www.instagram.com/ieeeuel/) | **YouTube:** [Ramo IEEE UEL](https://www.youtube.com/RamoIEEEUEL)
 
 ---
 
 ### 🧬 <a name="ic"></a>Iniciação Científica (IC)
-Quer pesquisar algo a fundo e ainda ganhar uma bolsa (o famoso 🤑)? Na IC você escolhe um tema e um orientador. É ótimo para quem pensa em fazer mestrado ou quer se especializar muito em uma área.
+Quer pesquisar algo a fundo e ainda ganhar uma bolsa? Na IC você escolhe um tema e um orientador. É ótimo para quem pensa em fazer mestrado ou quer se especializar em uma área.
 
 - **Como entrar?** Mande e-mail ou bata na porta dos professores. Veja quem pesquisa o quê aqui: [Currículo dos Docentes](https://sites.uel.br/dc/docentes-e-tecnicos/)
 ---
@@ -151,7 +153,9 @@ Quer pesquisar algo a fundo e ainda ganhar uma bolsa (o famoso 🤑)? Na IC voc�
 ### 💻 <a name="petcode"></a>PET CODE - Computação e Design
 O **PET** une a galera da Comp e do Design em projetos de ensino, pesquisa e extensão. É um grupo muito forte que desenvolve soluções reais, organiza eventos e tem uma vivência acadêmica bem intensa.
 
-- **Instagram:** [@pet_code]([https://www.instagram.com/pet_code/](https://www.instagram.com/petcode_uel?igsh=OG93MWx0YTVldnBi))
+- **Como entrar:** Fique de olho nos Editais da UEL no site da [Prograd](https://sites.uel.br/prograd/).
+
+- **Instagram:** [@pet_code](https://www.instagram.com/petcode_uel?igsh=OG93MWx0YTVldnBi)
 - **E-mail:** [petcode@uel.br]
 ---
 
@@ -178,7 +182,7 @@ O aplicativo oficial é, na maioria das vezes, muito mais prático que o portal 
 
 Aqui é onde a "burocracia oficial" acontece. Se precisar de papelada ou resolver a vida acadêmica, o caminho é o **Portal do Estudante de Graduação**.
 
-> **Link de acesso:** [sistemas.uel.br/portaldoestudante](https://sistemas.uel.br/portaldoestudante/)
+> **Link de acesso:** [Portal do Estudante](https://sistemas.uel.br/portaldoestudante/)
 
 ### Confirmação e Renovação
 Não vacile aqui! Todo semestre (e logo agora no começo) você precisa confirmar que está "ativo" no curso:
@@ -198,7 +202,7 @@ Quer saber se o professor já postou a nota ou se você está abusando das falta
 
 - **Dica de veterano:** A UEL é rígida com presença. Você precisa de, no mínimo, **75% de frequência**. O boletim mostra o "limite de faltas" de cada matéria, não ultrapasse esse número por nada! Você também consegue ver tudo isso pelo App, o que é bem mais prático.
 
-- Geralmente o numero de máximo faltas é: 9, 18 ou 27. **Mas lembrando que 1 aula conta como 2**.
+- Geralmente o numero de máximo faltas é: 9, 18 ou 27. **Mas lembrando que 1 aula conta como 2 faltas**.
 ---
 
 # 💳 <a name="carteirinha"></a>Carteirinha e RU
@@ -218,7 +222,6 @@ Se você quer comer bem pagando pouco (o famoso ranguinho da UEL), você precisa
 Por enquanto é isso que vocês precisam para sobreviver ao primeiro semestre de Computação na **crUELzinha**. Nós, veteranos, esperamos poder ajudar nessa nova fase. Se precisarem de qualquer coisa, é só dar um grito!
 
 > **Que comecem os jogos! ;D**
----
 
 #### Créditos
 
